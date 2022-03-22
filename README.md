@@ -1,10 +1,10 @@
-# mono_pysource
-My python monorepo source.
+# mono_py
+My python monorepo.
 
 ## Directories
 
 ```
-pysource/
+mono_py/
 |-- apps/
 |-- bin/
 |-- data/
