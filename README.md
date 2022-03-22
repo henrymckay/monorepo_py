@@ -1,14 +1,14 @@
-# source-py
+# pysource
 My python source.
 
 ## Directories
 
 ```
-source-py/
+pysource/
 |-- bin/
 |-- data/
 |-- etc/
 |-- scripts/
-|-- source-py/
+|-- source/
 +-- tests/
 ```
