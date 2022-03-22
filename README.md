@@ -5,10 +5,11 @@ My python source.
 
 ```
 pysource/
+|-- apps/
 |-- bin/
 |-- data/
 |-- etc/
+|-- lib/
 |-- scripts/
-|-- source/
 +-- tests/
 ```
