@@ -1,5 +1,5 @@
-# pysource
-My python source.
+# mono_pysource
+My python monorepo source.
 
 ## Directories
 
@@ -10,6 +10,8 @@ pysource/
 |-- data/
 |-- etc/
 |-- lib/
+    +-- tools/
+|
 |-- scripts/
 +-- tests/
 ```
