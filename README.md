@@ -3,6 +3,28 @@ My python monorepo.
 
 ## Directories
 ```
+happy with:
+
+apis
+databases
+oop
+tools
+
+thinking on:
+
+pipelines
+- data   describes 
+- retrieve
+- process
+- save
+
+
+
+```
+
+
+
+```
 monorepo_py/
 |-- apps/
 |-- bin/
