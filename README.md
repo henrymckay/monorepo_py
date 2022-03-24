@@ -2,6 +2,8 @@
 My python monorepo.
 
 ## Directories
+Work In Progress
+
 still need more ideas on how organise the models/solvers/strategies/pricing part, will come with reading and experience
 
 
